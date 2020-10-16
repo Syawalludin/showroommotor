@@ -1,8 +1,4 @@
-@import url("fontface.css");
-* {
-	padding:0;
-	margin:0;
-}
+
 .clear {
 	clear:both;
 }
